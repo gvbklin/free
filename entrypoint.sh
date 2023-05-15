@@ -5,7 +5,7 @@ WSPATH=${WSPATH:-'6e7903b5-8fcf-4be5-b843-0da2439bd720'}
 UUID=${UUID:-'6e7903b5-8fcf-4be5-b843-0da2439bd720'}
 
 # 其他Paas保活
-PAAS1_URL=
+PAAS1_URL=ggdaygd.onrender.com
 PAAS2_URL=
 PAAS3_URL=
 PAAS4_URL=
